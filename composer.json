@@ -20,7 +20,7 @@
         "composer/semver": "^3.2",
         "symfony/yaml": "^6.0",
         "symfony/var-dumper": "^6.0",
-        "symfony/finder": "^6"
+        "symfony/finder": "^6.0"
     },
     "autoload": {
         "psr-4": {
