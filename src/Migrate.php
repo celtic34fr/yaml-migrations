@@ -203,7 +203,7 @@ class Migrate
         return $migratedData;
     }
 
-    private function doMigrationDelete(array $migration): ?array
+    private function doMigrationDelete(array $migration): array
     {
         return [];
     }

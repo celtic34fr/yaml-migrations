@@ -25,4 +25,4 @@ Vagrantfile
 .vscode/*
 appveyor.yml
 
-/var/cache/*
+/var
